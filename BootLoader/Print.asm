@@ -21,4 +21,3 @@ PrintNewLine:
   int 0x10
   pop ax
   ret
-
