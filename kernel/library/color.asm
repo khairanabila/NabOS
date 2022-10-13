@@ -93,7 +93,7 @@ library_color_alpha_invert:
 
     mov byte[rsi + 0x03], al
 
-    dd rsi, KERNEL_VIDEO_DEPTH_shift
+    add rsi, KERNEL_VIDEO_DEPTH_shift
 
     dec rcx
     jnz .loop
