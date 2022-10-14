@@ -3,6 +3,8 @@
 
 ![image](https://cdn.discordapp.com/attachments/1021642894148382800/1021741281837322240/Screenshot_2022-09-20-18-12-59_1366x768.png)
 
+**note** : **under maintainance, untuk support GUI dan arsitektur 64 bit**
+
 # Usage
   compile project dengan menggunakan dependensi berikut
 
